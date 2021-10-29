@@ -1,4 +1,5 @@
-For _ in range(5)
-    Print(‘Python works!’)
-
-print('Python Works!')
+For j in range(1,15)
+    if j %2 == 1:
+        print('{} conda'.format(j))
+    else:
+        Print('{}’.format(j))
